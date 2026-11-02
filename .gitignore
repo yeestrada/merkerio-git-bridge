@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.venv*/
+.vscode/
+.tk-runtime/
+build/
+dist/
+.env
+.env.local
+.env.*
+!.env.example
+.DS_Store
+*.log
